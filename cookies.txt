@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.txtspy.org	TRUE	/	FALSE	1999999999	__cfduid	d89ca0a1e17a73a7d26736e2c97cc039b1485859309
+
